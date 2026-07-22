@@ -39,9 +39,7 @@ This portfolio is a trial project created to practice web development, improve m
 * Add a blog section
 * Continue improving the design and user experience
 
-## 📬 Contact
 
-Feel free to connect with me and explore my work!
 
 ---
 
